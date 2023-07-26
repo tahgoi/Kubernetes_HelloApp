@@ -1,0 +1,9 @@
+name: hello-app
+
+appname: hello-app
+
+namespace: default
+
+image:
+  name: gcr.io/google-samples/hello-app
+  tag: 2.0 
